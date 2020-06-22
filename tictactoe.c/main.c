@@ -115,9 +115,9 @@ int main()
      show();
     if(count<9)
     { if(k==100)
-     printf("player 1 has won the game\n");
+     printf("player 1 has won the game : congratulations\n");
      else if(k==200)
-      printf("player 2 has won the game\n");
+      printf("player 2 has won the game : congratulations\n");
     else
     goto label;
     }
